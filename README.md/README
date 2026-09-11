@@ -5,3 +5,7 @@ El propósito del proyecto es comprender los comandos basicos de git
 Anexaremos codigos extras del github
 
 Segundo punto taller
+
+Uso repositorio
+El repositorio debe manejarse mediante ramas, evitando trabajar directamente sobre `main`. Cada integrante debe crear una rama para sus cambios, realizar commits claros y descriptivos, y posteriormente abrir un Pull Request hacia `main` para su revisión y aprobación antes de integrar los cambios. Se debe mantener el repositorio actualizado y evitar subir archivos innecesarios o información sensible.
+

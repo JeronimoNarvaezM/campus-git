@@ -1,8 +1,8 @@
-public class CampusStatus {
+public class campusStatus {
     private String status;
     private String message;
 
-    public CampusStatus(String status, String message) {
+    public campusStatus(String status, String message) {
         this.status = status;
         this.message = message;
     }
